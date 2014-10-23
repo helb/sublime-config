@@ -1,0 +1,59 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "insert nums",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "insert nums"
+			},
+			"key": "3bb83fb36057e86c4872885fd3e6915b",
+			"label": "insert nums"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "insert nums 1 1 1",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "insert nums 1 1 1"
+			},
+			"key": "23d4d989c0f5d362f1fee4aadc2eae5e",
+			"label": "insert nums 1 1 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"current": "1",
+					"padding": "1",
+					"step": "1"
+				},
+				"command": "insert_nums",
+				"text": "1 1 1"
+			},
+			"key": "f4093d4303a6804a1cf378c28e59581a",
+			"label": "1 1 1"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"current": "1",
+			"padding": "1",
+			"step": "1"
+		},
+		"command": "insert_nums",
+		"text": "1 1 1"
+	}
+}

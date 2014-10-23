@@ -1,0 +1,33 @@
+{
+	"installed_packages":
+	[
+		"4GL",
+		"BracketHighlighter",
+		"CSS Format",
+		"CSScomb",
+		"Devastate",
+		"Git",
+		"GitGutter",
+		"Indent XML",
+		"Jinja2",
+		"JsFormat",
+		"JSHint Gutter",
+		"JSONLint",
+		"Laravel Color Scheme",
+		"Pelican",
+		"Predawn Monokai",
+		"Retro Computers Color Schemes",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-csslint",
+		"Text Pastry",
+		"Theme - Afterglow",
+		"Theme - Flatland",
+		"Theme - Glacier",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"TodoReview"
+	]
+}
